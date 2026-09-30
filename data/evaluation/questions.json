@@ -1,0 +1,915 @@
+[
+  {
+    "id": "a01",
+    "question": "What is principal component analysis and why is it used?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "JI-AIDS-ML-03-Unsup-01-Principal Components Analysis.pptx"
+      },
+      {
+        "filename": "LA_Lecture 10_SM.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a02",
+    "question": "How does the k-means clustering algorithm work?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "JI-AIDS-ML-03-Unsup-03-Clustering-01-Kmeans.pptx"
+      }
+    ]
+  },
+  {
+    "id": "a03",
+    "question": "What is agglomerative hierarchical clustering?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "JI-AIDS-ML-03-Unsup-03-Clustering-02-Agglomerative.pptx"
+      }
+    ]
+  },
+  {
+    "id": "a04",
+    "question": "What is spectral clustering?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "JI-AIDS-ML-03-Unsup-04-Clustering-03-Spectral.pptx"
+      }
+    ]
+  },
+  {
+    "id": "a05",
+    "question": "What is the difference between parametric and non-parametric density estimation?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "JI-AIDS-ML-03-Unsup-05-Density-Estimation.pptx"
+      }
+    ]
+  },
+  {
+    "id": "a06",
+    "question": "What is frequent itemset mining and how does the Apriori algorithm work?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "JI-AIDS-ML-03-Unsup-06-Itemset-Mining.pptx"
+      },
+      {
+        "filename": "ch11.pptx"
+      }
+    ]
+  },
+  {
+    "id": "a07",
+    "question": "What is Fisher linear discriminant analysis?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "JI-AIDS-ML-04-Sup-02-Fisher Discriminant Analysis.pptx"
+      }
+    ]
+  },
+  {
+    "id": "a08",
+    "question": "How is a decision tree built and how is the splitting attribute chosen?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "JI-AIDS-ML-04-Sup-04-Decision-Trees.pptx"
+      },
+      {
+        "filename": "Lec5_Decision-Tree-Reading-2.pdf"
+      },
+      {
+        "filename": "Lec5_Decision-Tree-part-Reading_1.pdf"
+      },
+      {
+        "filename": "lecture5_decision_trees_ensembles.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a09",
+    "question": "What is a naive Bayes classifier?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "JI-AIDS-ML-04-Sup-06-Bayesian-Classifiers.pptx"
+      },
+      {
+        "filename": "Lec4c-Bayesian Classifier.pdf"
+      },
+      {
+        "filename": "ch11.pptx"
+      }
+    ]
+  },
+  {
+    "id": "a10",
+    "question": "What is a Bayesian network?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "JI-AIDS-ML-04-Sup-07-Bayesian-Networks.pptx"
+      }
+    ]
+  },
+  {
+    "id": "a11",
+    "question": "How does a support vector machine find the maximum margin hyperplane?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "JI-AIDS-ML-04-Sup-10-Support-Vector-Machines.pptx"
+      }
+    ]
+  },
+  {
+    "id": "a12",
+    "question": "What is ensemble learning, and how do bagging and boosting differ?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "JI-AIDS-ML-04-Sup-11-Ensamble-Learning no video.pptx"
+      },
+      {
+        "filename": "lecture5_decision_trees_ensembles.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a13",
+    "question": "What similarity and distance measures are used for clustering?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "JI-AIDS-ML-03-Unsup-03-Similarity-Distance-Affinity.pptx"
+      }
+    ]
+  },
+  {
+    "id": "a14",
+    "question": "What is feature engineering?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "JI-AIDS-ML-04-Sup-03-Art of Feature Engineering.pptx"
+      }
+    ]
+  },
+  {
+    "id": "a15",
+    "question": "What are the main machine learning paradigms?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "JI-AIDS-ML-01-Intro-02-Machine Learning Paradigms.pptx"
+      }
+    ]
+  },
+  {
+    "id": "a16",
+    "question": "How does a k-nearest neighbour classifier work?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "JI-AIDS-ML-04-Sup-05-Non-Parametric-Classifiers.pptx"
+      }
+    ]
+  },
+  {
+    "id": "a17",
+    "question": "How are stacks used to implement recursion?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "L05. Stacks and recursion.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a18",
+    "question": "What is a circular queue and why is it used?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "L06. Queque and CQueue.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a19",
+    "question": "How do you insert a node into a doubly linked list?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "L07. Linked List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a20",
+    "question": "Explain binary search tree insertion and deletion",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "L10. BST_AVL_RB_V1.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a21",
+    "question": "What rotations are used to rebalance an AVL tree?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "L10. BST_AVL_RB_V1.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a22",
+    "question": "How is a priority queue implemented with a binary heap?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "L11. Heap and Priority_V1.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a23",
+    "question": "What is a multiway search tree such as a B-tree?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "L12. Multiway search trees_V1.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a24",
+    "question": "How does linear probing resolve hash collisions?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "L13. Hash functions and hash tables.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a25",
+    "question": "How does breadth-first search traverse a graph?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "L15. Graph - Traversal Connectedness.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a26",
+    "question": "How does Dijkstra's shortest path algorithm work?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "L19. Graph Dijkstra A Floyd-Warshall.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a27",
+    "question": "How does Kruskal's algorithm find a minimum spanning tree?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "L18. Graph algorithms - Minimum spanning tree_V1.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a28",
+    "question": "What are inorder, preorder and postorder traversals of a binary tree?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "L09. Binary Trees_V1.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a29",
+    "question": "What is physical data independence in a database system?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "ch1.pptx"
+      }
+    ]
+  },
+  {
+    "id": "a30",
+    "question": "What does the set difference operation do in relational algebra?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "ch2.pptx"
+      }
+    ]
+  },
+  {
+    "id": "a31",
+    "question": "How do you create a table in SQL?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "ch3 (1).pptx"
+      }
+    ]
+  },
+  {
+    "id": "a32",
+    "question": "How do you define a view in SQL?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "ch4.pptx"
+      }
+    ]
+  },
+  {
+    "id": "a33",
+    "question": "What is a weak entity set in the E-R model?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "ch6.pptx"
+      }
+    ]
+  },
+  {
+    "id": "a34",
+    "question": "What is a functional dependency and what are normal forms?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "ch7.pptx"
+      }
+    ]
+  },
+  {
+    "id": "a35",
+    "question": "What does the $unwind stage do in a MongoDB aggregation?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "ch10.pptx"
+      }
+    ]
+  },
+  {
+    "id": "a36",
+    "question": "What is a rollup query in a data warehouse?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "ch11.pptx"
+      }
+    ]
+  },
+  {
+    "id": "a37",
+    "question": "What is a virtual warehouse in Snowflake?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "ch11c.pptx"
+      }
+    ]
+  },
+  {
+    "id": "a38",
+    "question": "What is a rational agent and how is its performance measured?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "IntroToAI_June2026_Lec2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a39",
+    "question": "How does depth-first search work as an uninformed search strategy?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "IntroToAI_June2026_Lec4a_UninformedSearch.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a40",
+    "question": "What is greedy best-first search in informed search?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "IntroToAI_June2026_Lec4b_InformedSearch.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a41",
+    "question": "What is backward chaining in an expert system?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "IntroToAI_June2026_Lec5_ExpertSystems.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a42",
+    "question": "Why can accuracy be misleading on imbalanced data?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "Lec4d_evaluation_metrics.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a43",
+    "question": "What is generative AI and what makes it different?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "IntroTo AI_Lecs7+8_Reading.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a44",
+    "question": "What risks do deepfakes and misinformation from GenAI pose?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "IntroTo AI_Lecs9+10.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a45",
+    "question": "How is an artificial neural network classifier trained?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "lecture6_ann_combined.pdf"
+      },
+      {
+        "filename": "Lec6a-ANN-Classifier-part-1.pdf"
+      },
+      {
+        "filename": "Lec6b-ANN-Classifier-part-2.pdf"
+      },
+      {
+        "filename": "Lec6c-ANN-Classifier-part-3.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a46",
+    "question": "What is LU factorization of a matrix?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "LA_Lecture 3_SM.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a47",
+    "question": "How do you solve Ax = b using reduced row echelon form?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "LA_Lecture 4_SM.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a48",
+    "question": "What are the four fundamental subspaces of a matrix?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "LA_Lecture 5_SM.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a49",
+    "question": "How do you project a vector onto a subspace?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "LA_Lecture 6_SM.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a50",
+    "question": "What is the Gram-Schmidt orthonormalization process?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "LA_Lecture 7_SM.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a51",
+    "question": "How do you diagonalize a matrix using its eigenvalues and eigenvectors?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "LA_Lecture 8_SM.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a52",
+    "question": "What is the column picture of a system of linear equations?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "LA_Lecture 2_SM.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a53",
+    "question": "How do you construct a confidence interval for a population mean?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "Sampling and CI Apr 2026.pptx"
+      }
+    ]
+  },
+  {
+    "id": "a54",
+    "question": "What are the steps of a hypothesis test?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "Hypothesis Test May 2026.pptx"
+      }
+    ]
+  },
+  {
+    "id": "a55",
+    "question": "What is simple linear regression?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "Simple Linear Regression.pptx"
+      }
+    ]
+  },
+  {
+    "id": "a56",
+    "question": "How do you check the residual diagnostics of a regression model?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "SLR Diagnostics.pptx"
+      }
+    ]
+  },
+  {
+    "id": "a57",
+    "question": "How do you compare the means of two populations?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "Comparisons Between Two Populations 2026.pptx"
+      }
+    ]
+  },
+  {
+    "id": "a58",
+    "question": "What is multiple regression?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "Multiple Regression.pptx"
+      }
+    ]
+  },
+  {
+    "id": "a59",
+    "question": "How do you analyse categorical variables?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "Categorical Variables.pptx"
+      }
+    ]
+  },
+  {
+    "id": "a60",
+    "question": "What is continuous deployment?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "Continuous-Deployment.pdf"
+      }
+    ]
+  },
+  {
+    "id": "a61",
+    "question": "What are Git and GitHub used for?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "Git-And-Github-VCS (1).pdf"
+      }
+    ]
+  },
+  {
+    "id": "a62",
+    "question": "How do you package a machine learning model for deployment?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "Packaging-ML-Models (1).pdf"
+      }
+    ]
+  },
+  {
+    "id": "a63",
+    "question": "What is Apache Kafka used for?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "Hello-World-With-Apache-Kafka (1).pdf"
+      }
+    ]
+  },
+  {
+    "id": "a64",
+    "question": "What is the MLOps framework?",
+    "expected_outcome": "answer",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": [
+      {
+        "filename": "The-ML-OPS-Framework (1).pdf"
+      }
+    ]
+  },
+  {
+    "id": "o01",
+    "question": "What is the capital of France?",
+    "expected_outcome": "abstain",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": []
+  },
+  {
+    "id": "o02",
+    "question": "Who won the 2018 FIFA World Cup?",
+    "expected_outcome": "abstain",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": []
+  },
+  {
+    "id": "o03",
+    "question": "How do I bake a chocolate cake?",
+    "expected_outcome": "abstain",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": []
+  },
+  {
+    "id": "o04",
+    "question": "What is the boiling point of water?",
+    "expected_outcome": "abstain",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": []
+  },
+  {
+    "id": "o05",
+    "question": "Who wrote Romeo and Juliet?",
+    "expected_outcome": "abstain",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": []
+  },
+  {
+    "id": "o06",
+    "question": "What is photosynthesis?",
+    "expected_outcome": "abstain",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": []
+  },
+  {
+    "id": "o07",
+    "question": "How does a car engine work?",
+    "expected_outcome": "abstain",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": []
+  },
+  {
+    "id": "o08",
+    "question": "What is the population of India?",
+    "expected_outcome": "abstain",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": []
+  },
+  {
+    "id": "o09",
+    "question": "Who is the prime minister of Japan?",
+    "expected_outcome": "abstain",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": []
+  },
+  {
+    "id": "o10",
+    "question": "What is the recipe for biryani?",
+    "expected_outcome": "abstain",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": []
+  },
+  {
+    "id": "o11",
+    "question": "How do vaccines work?",
+    "expected_outcome": "abstain",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": []
+  },
+  {
+    "id": "o12",
+    "question": "What is the tallest mountain in the world?",
+    "expected_outcome": "abstain",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": []
+  },
+  {
+    "id": "o13",
+    "question": "What are the best tourist places in Goa?",
+    "expected_outcome": "abstain",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": []
+  },
+  {
+    "id": "o14",
+    "question": "How do I change a car tyre?",
+    "expected_outcome": "abstain",
+    "reference_answer": "",
+    "acceptable_points": [],
+    "supporting_sources": []
+  }
+]

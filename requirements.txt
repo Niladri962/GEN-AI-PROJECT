@@ -1,0 +1,16 @@
+streamlit>=1.40,<2
+python-dotenv>=1.0,<2
+pypdf>=5,<7
+langchain-core>=0.3,<2
+langchain-community>=0.3,<1
+langchain-huggingface>=0.1,<2
+langchain-text-splitters>=0.3,<2
+openai>=1.40,<4
+sentence-transformers>=3,<6
+qdrant-client>=1.12,<2
+langchain-qdrant>=0.2,<2
+fonttools>=4.50,<5
+# Only for scripts/collect_open_sources.py
+beautifulsoup4>=4.12,<5
+requests>=2.31,<3
+pytest>=8,<9

@@ -1,0 +1,1 @@
+Add the instructor-reviewed 30-question benchmark in `questions.json`. Include answerable, partial, and unanswerable questions; record expected answer points and the exact PDF filename/page pairs that support each answer. Keep the benchmark fixed when comparing retrieval or prompt changes, and add new real-use questions as a separate versioned set when practical.
